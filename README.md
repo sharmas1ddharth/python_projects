@@ -1,2 +1,4 @@
-# python_projects
-A repo for python projects
+# Python Projects
+A list of python projects with their source code.
+
+
