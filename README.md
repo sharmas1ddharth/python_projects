@@ -13,5 +13,6 @@ This list contains a projects developed in python.
 | :--: | ------------------- | ---------------------------------- |
 |  1   | Simple GUI Alarm Clock | [Click Here](https://github.com/sharmas1ddharth/simple_gui_alarm_clock)        |
 |  2   | Credit Card Fraud Detection | [Click Here](https://github.com/sharmas1ddharth/credit_card_fraud_detection) |
+|  3   | Twitter Sentiment Analysis and Classification | [Click Here](https://github.com/sharmas1ddharth/twitter_sentiment_analysis) |
 
 
